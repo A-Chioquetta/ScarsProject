@@ -17,13 +17,12 @@ Ensure you have the Qutip library installed to run the codes effectively.
   **Hamiltonian Definitions:**
   
   
-  <img src= 'images/pxp.png' width='200'>
-  
-  
+  <img src= 'images/pxp.png' width='190'>
+  <br>
   <img src= 'images/obc.png' width='250'>
-  
-  
-  <img src= 'images/perturb.png' width='260'>
+  <br>
+
+  <img src= 'images/perturb.png' width='265'>
  
 
 - **pxp_eigenstates.py**: This script evaluates the eigenstates of the Hamiltonian with the same options as above.
