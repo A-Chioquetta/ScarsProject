@@ -22,7 +22,7 @@ Ensure you have the Qutip library installed to run the codes effectively.
   <img src= 'images/obc.png' width='250'>
   <br>
 
-  <img src= 'images/perturb.png' width='265'>
+  <img src= 'images/perturb.png' width='280'>
  
 
 - **pxp_eigenstates.py**: This script evaluates the eigenstates of the Hamiltonian with the same options as above.
