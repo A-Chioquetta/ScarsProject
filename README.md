@@ -15,9 +15,11 @@ Ensure you have the Qutip library installed to run the codes effectively.
 - **TimeEvol_PXP.py**: This script evaluates the time evolution of the PXP model with perturbation (optional), offering options for Periodic Boundary Conditions (PBC) or Open Boundary Conditions (OBC).
   
   **Hamiltonian Definitions:**
-  - **H_{PXP}**: $ \sum_{i=1}^{N} P_{i-1}X_{i}P_{i+1} $
-  - **H_{OBC}**: $ X_1P_2 + P_{N-1}X_{N} $
-  - **H_{perturb}**: $ \sum_{i}^{N} (W_{X}^i X_{i} + W_{Y}^i Y_{i} + W_{Z}^i Z_{i}) $
+  ![equation](images/pxp.png)
+  
+  ![equation](images/obc.png)
+  
+  ![equation](images/perturb)
 
 - **pxp_eigenstates.py**: This script evaluates the eigenstates of the Hamiltonian with the same options as above.
 
