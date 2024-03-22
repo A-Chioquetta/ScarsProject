@@ -4,7 +4,7 @@ This repository contains codes and results for the PXP model.
 
 ## Summary
 
-The PXP model is implemented here using the QuTiP[1,2] library. Below is a brief overview of the main components:
+The PXP model is implemented here using the QuTiP [1,2] library. Below is a brief overview of the main components:
 
 ### Prerequisites
 
@@ -39,6 +39,6 @@ Results are included in the repository, demonstrating the application of the PXP
 
 
 
-[1]J. R. Johansson, P. D. Nation, and F. Nori: "QuTiP 2: A Python framework for the dynamics of open quantum systems.", Comp. Phys. Comm. 184, 1234 (2013) [DOI: 10.1016/j.cpc.2012.11.019].
+[1] J. R. Johansson, P. D. Nation, and F. Nori: "QuTiP 2: A Python framework for the dynamics of open quantum systems.", Comp. Phys. Comm. 184, 1234 (2013) [DOI: 10.1016/j.cpc.2012.11.019].
 
-[2]J. R. Johansson, P. D. Nation, and F. Nori: "QuTiP: An open-source Python framework for the dynamics of open quantum systems.", Comp. Phys. Comm. 183, 1760–1772 (2012) [DOI: 10.1016/j.cpc.2012.02.021].
+[2] J. R. Johansson, P. D. Nation, and F. Nori: "QuTiP: An open-source Python framework for the dynamics of open quantum systems.", Comp. Phys. Comm. 183, 1760–1772 (2012) [DOI: 10.1016/j.cpc.2012.02.021].
