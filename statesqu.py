@@ -2,6 +2,14 @@ from qutip import *
 import numpy as np
 
 
+#Initial state options (use chains with an even number of sites):
+# s=0:    |0> = |down down ... down>
+# s=2:    |Z2> = |up down up down ... up down> 
+# s=2.1:  |Z2'> = |up down... up down DOWN down up down ... up down> (|Z2> with a flip in the middle)
+# s=3:    |Z3> = |up down down up down down...up down down> (this state needs to have a multiple of 3 as well, e.g. N=12)
+# s=3.1:  |Z3> = |up down down...up down down up down UP up down down... up down down> (|Z3> with a flip around the middle)
+
+
 
 
 up=fock(2,0)
