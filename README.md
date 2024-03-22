@@ -19,7 +19,9 @@ Below is a description of the primary scripts and modules in this repository:
   **Hamiltonian Definitions Visualized**:
 
   <img src="images/pxp.png" width="190">  
+  <br>
   <img src="images/obc.png" width="250">  
+  <br>
   <img src="images/perturb.png" width="280">
 
 - **pxp_eigenstates.py**: Computes the eigenstates of the PXP Hamiltonian, offering insights into the system's quantum states.
