@@ -8,7 +8,17 @@ The PXP model simulations are performed using the QuTiP library, a comprehensive
 
 ### Getting Started
 
-Before running the simulations, ensure you have the QuTiP library installed in your environment. QuTiP offers a wide range of functionalities for quantum simulations, making it an essential tool for this project.
+
+### Dependencies
+
+To run the simulations, you will need to have the following libraries installed:
+
+- Python 3.x
+- QuTiP: Quantum Toolbox in Python, used for quantum system simulations.
+- NumPy: Fundamental package for scientific computing with Python.
+- Matplotlib: A Python 2D plotting library which produces publication quality figures.
+- SymPy: A Python library for symbolic mathematics.
+
 
 ### Repository Contents
 
