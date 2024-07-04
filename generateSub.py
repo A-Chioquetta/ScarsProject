@@ -1,4 +1,4 @@
-#Gerar os vetores dos subespaços ao invés de separar os autovetores de H
+#Generate eigenvectors from the constrained subspace
 
 import qutip as qt
 import numpy as np

@@ -1,4 +1,4 @@
-#Reduced space
+# Evaluate the eigenstates of the constrained subspace and then put them into the full space representation 
 
 import sys
 import os

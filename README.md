@@ -42,6 +42,12 @@ Below is a description of the primary scripts and modules in this repository:
 
 - **operators.py**: Defines operators used in constructing the Hamiltonian and other quantum mechanical properties of the chain.
 
+- **generateSub.py**: Generate eigenvectors from the PXP constrained subspace
+
+- **reducedSpace.py**: Evaluate the eigenstates of the constrained subspace and then put them into the full space representation 
+
+- **dilution.py**: Evaluate how the initial state is spread in the constrained subspace 
+
 ### Results
 
 The repository also includes results showcasing the PXP model's dynamics and the scripts' capabilities. These results offer a glimpse into the quantum behaviors captured by the simulations.
