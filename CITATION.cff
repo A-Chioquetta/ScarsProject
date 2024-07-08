@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ScarsProject"
+authors:
+  - family-names: "Chioquetta"
+    given-names: "Alessandra"
+date-released: "2024-07-08"
+url: "https://github.com/A-Chioquetta/ScarsProject"
+repository-code: "https://github.com/A-Chioquetta/ScarsProject"
+version: "1.0.0"
+keywords:
+  - "quantum scars"
+  - "PXP model"
+  - "quantum many-body systems"
+license: "MIT"
+doi:
+abstract: "This repository contains code and data related to the study of quantum many-body scars in the PXP model."
+
